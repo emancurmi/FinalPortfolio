@@ -952,7 +952,7 @@ input[type="button"]:focus {
         border-color: #793ea5;*/
         background: #BD97D8;
         border-color: #BD97D8;
-        color: #FFFFFF;
+        color: #0a0a0a;
     }
 
 .btn.btn--primary:hover,
@@ -3677,7 +3677,8 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-contact .subhead {
-  color: #2a1538;
+  /*color: #2a1538;*/
+  color: #000000;
 }
 
 .s-contact .section-header,
